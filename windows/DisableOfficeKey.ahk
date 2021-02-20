@@ -1,0 +1,1 @@
+^!+LWin::send {Blind}{vk07}
